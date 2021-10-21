@@ -6,36 +6,27 @@ sessions.
 
 ---
 
-### HW7.1: Sortable classes for LPs and Address
+### HW8.1: Explaining Generics syntax
 
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-487.html
-- Solution files are in lecture notes
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-393.html
+- hw81answer.md
 - Questions?
 
-### HW7.2: BST using generics, interface provided
-
-https://cs.rit.edu/~hpb/Lectures/2201/605/605-488.html
-- Solution files are in lecture notes
+### HW8.2: A Generics storage
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-394.html
 - How about we draw a class/interface diagram?
-- hw72.tiff
 - Questions?
 
-### HW7.3: Explaining Exceptions
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-489.html
-- F.java
-- https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/lang/IndexOutOfBoundsException.html
+### HW9.1: Generics Wildcards 
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-396.html
 - Questions?
 
-### HW8.1: Lottery Number Distribution 
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-491.html
+### HW9.2:  More on generics wildcards
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-397.html
 - Questions?
 
-### HW8.2: Painting numbers
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-492.html
-- Questions?
-
-### HW8.3: Object Serialization
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-493.html
+### HW9.3: Exceptions
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-398.html
 - Questions?
 
 ### Object Serialization
